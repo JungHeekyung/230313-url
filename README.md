@@ -4,3 +4,4 @@
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
 
+* **임주희** [https://github.com/limjuhee0803](https://github.com/limjuhee0803)
