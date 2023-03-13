@@ -1,9 +1,10 @@
 # 230313-url
 > 아래와 같이 MD 방식으로 개인 url을 추가해 주세요
-> **변준현: github 주소**
+> **이름: github 주소**
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
-* **변 준현** [https://github.com/gogoma]
+* **김샛별** (https://github.com/oiei0926)
+* **변준현** [https://github.com/gogoma]
 * **김평우** [https://github.com/KPW1](https://github.com/KPW1)
 * **이현경** https://github.com/hyunk07
 * **문예림** [https://github.com/nyerim](https://github.com/nyerim)
