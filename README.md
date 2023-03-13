@@ -3,11 +3,11 @@
 > **이름: github 주소**
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
+** 안소희** https://github.com/dksthgml
 * **안소영** [https://github.com/youngsoAN](https://github.com/youngsoAN)
 * **이지은** [https://github.com/jieun822](https://github.com/jieun822)
 * **고은지** [https://github.com/goeunjib]
-* **정희경** 
-[https://github.com/JungHeekyung](https://github.com/JungHeekyung)
+* **정희경** [https://github.com/JungHeekyung](https://github.com/JungHeekyung)
 * **이지희** [https://github.com/Leejihi](https://github.com/Leejihi)
 * **윤연정** [https://github.com/yunyeonjeong](https://github.com/yunyeonjeong)
 * **이수빈** [https://github.com/arborinlove](https://github.com/arborinlove)
