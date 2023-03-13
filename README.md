@@ -3,9 +3,7 @@
 > **이름: github 주소**
 
 * **김미리** 
-[https://github.com/kimmiri1234]
-(https://github.com/kimmiri1234)
+[https://github.com/kimmiri1234](https://github.com/kimmiri1234)
 
 * **정희경** 
-[https://github.com/JungHeekyung]
-(https://github.com/JungHeekyung)
+[https://github.com/JungHeekyung](https://github.com/JungHeekyung)
