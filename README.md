@@ -3,4 +3,4 @@
 > **변준현: github 주소**
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
-* **변준현** [https://github.com/gogoma]
+* **변 준현** [https://github.com/gogoma]
