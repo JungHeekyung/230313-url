@@ -3,6 +3,7 @@
 > **이름: github 주소**
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
+* **김나현** [https://github.com/knknkn0928](https://github.com/knknkn0928)
 * **이성우** [https://github.com/win401](https://github.com/win401)
 * **최건** [https://github.com/geon3017]
  	 (https://github.com/geon3017)
