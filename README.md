@@ -4,4 +4,4 @@
 
 * **김미리** [https://github.com/kimmiri1234](https://github.com/kimmiri1234)
 * **강신재** [https://github.com/tlswo5303](https://github.com/tlswo5303)
-
+* **진태식** https://github.com/mirjin22
